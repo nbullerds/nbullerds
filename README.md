@@ -1,4 +1,5 @@
 👋 Hi, I’m @nbullerds
+- 📫 You can reach my by email at nabuller@gmail.com
 - 📖 Quick Bio:
 Business analyst consultant with 6+ years of experience and a background in data analysis, process improvement, and
 business facilitation. Proven ability to work cross-functionally across business disciplines and roles for the purpose of
@@ -10,4 +11,3 @@ and kind, curious demeanor.
 - ✔ I work primarily with Python and SQL
 - 🌱 I’m currently learning
 Machine Learning
-- 📫 You can reach my by email at nabuller@gmail.com
