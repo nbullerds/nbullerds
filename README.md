@@ -5,4 +5,4 @@
 - 🗺 Located: Minneapolis, MN
 - ✔ I work primarily with Python and SQL
 - 🌱 I’m currently learning
-Machine Learning
+Data Engineering
